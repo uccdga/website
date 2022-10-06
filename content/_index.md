@@ -84,7 +84,7 @@ funfacts:
 
   testimonial_slider:
   # testimonial item loop
-  - name: "Raymond Roy"
+  - name: "Bob Smith"
     image: "images/clients/avater-1.jpg"
     designation: "CEO-Themefisher"
     content: "This test company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."

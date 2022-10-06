@@ -1,0 +1,154 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = ""
+weight = 1
+
+[[main]]
+weight = 2
+name = "About"
+hasChildren = true
+
+    [[main]]
+    parent = "About"
+    name = "FAQs"
+    url = "about/"
+    weight = 3
+
+    [[main]]
+    parent = "About"
+    name = "Staff"
+    url = "staff/"
+    weight = 1
+
+    [[main]]
+    parent = "About"
+    name = "History"
+    url = "history/"
+    weight = 2
+
+    [[main]]
+    parent = "About"
+    name = "Giving"
+    url = "giving/"
+    weight = 4
+
+[[main]]
+weight = 3
+name = "News"
+hasChildren = true
+
+    [[main]]
+    parent = "News"
+    name = "Calendar"
+    url = "https://uccdga.churchcenter.com/calendar"
+    weight = 1
+
+    [[main]]
+    parent = "News"
+    name = "Streams"
+    url = "https://uccdga.churchcenter.com/channels/12275"
+    weight = 1
+
+    [[main]]
+    parent = "News"
+    name = "Groups"
+    url = "https://uccdga.churchcenter.com/groups"
+    weight = 1
+
+    [[main]]
+    parent = "News"
+    name = "Signups"
+    url = "https://uccdga.churchcenter.com/registrations"
+    weight = 1
+
+[[main]]
+name = "Sunday Service"
+url = "sunday-service/"
+weight = 6
+
+[[main]]
+weight = 7
+name = "Ministries"
+hasChildren = true
+
+    [[main]]
+    parent = "Ministries"
+    name = "Family"
+    url = "family/"
+    weight = 1
+
+    [[main]]
+    parent = "Ministries"
+    name = "Children"
+    url = "children/"
+    weight = 1
+
+    [[main]]
+    parent = "Ministries"
+    name = "Youth"
+    url = "/youth"
+    weight = 2
+
+    [[main]]
+    parent = "Ministries"
+    name = "Adult"
+    url = "adult/"
+    weight = 3  
+
+    [[main]]
+    parent = "Ministries"
+    name = "Missions"
+    url = "missions/"
+    weight = 8
+
+    [[main]]
+    parent = "Ministries"
+    name = "Care Ministry"
+    url = "care/"
+    weight = 9
+
+  
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 10
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[footer]]
+name = "Staff"
+url = "staff/"
+weight = 3
+
+[[footer]]
+name = "Sunday Service"
+url = "sunday-service/"
+weight = 4
+
+[[footer]]
+name = "Giving"
+url = "giving/"
+weight = 5
+
+[[footer]]
+name = "Calendar"
+url = "https://uccdga.churchcenter.com/calendar"
+weight = 6
+
+[[footer]]
+name = "Streams"
+url = "https://uccdga.churchcenter.com/channels/12275"
+weight = 7
+
+[[footer]]
+name = "Contact"
+url = "contact/"
+weight = 8

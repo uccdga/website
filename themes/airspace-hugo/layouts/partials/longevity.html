@@ -1,0 +1,75 @@
+<!-- funfacts -->
+{{ with .Params.funfacts }}
+<section class="testimonial">
+  <div class="container">
+    <div class="row">
+      <div class="section-title text-center">
+        {{ with .title }}<h2>{{ . | markdownify }}</h2>{{ end }}
+        {{ with .description }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6">
+        <div class="block">
+          <ul class="counter-box clearfix">
+
+            <li class="counter-item">
+              <i class="fas fa-church"></i>
+              <h4 class="count" data-count="{{ sub now.Year 1835 }}">0</h4>
+              <span>Years as a Baptist Church</span>
+            </li>
+
+            <li class="counter-item">
+              <i class="fas fa-church"></i>
+              <h4 class="count" data-count="{{ sub now.Year 1870 }}">0</h4>
+              <span>Years as a Presbyterian Church</span>
+            </li>
+
+             <li class="counter-item">
+              <i class="fas fa-place-of-worship"></i>
+              <h4 class="count" data-count="{{ sub now.Year 1872 }}">0</h4>
+              <span>Years in Current Building</span>
+            </li>
+
+            <li class="counter-item">
+              <i class="fas fa-place-of-worship"></i>
+              <h4 class="count" data-count="{{ sub now.Year 1950 }}">0</h4>
+              <span>Years as a United Church</span>
+            </li>
+
+            <li class="counter-item">
+              <i class="fas fa-place-of-worship"></i>
+              <h4 class="count" data-count="3">0</h4>
+              <span>Number of Pastors in the Last Six Decades</span>
+            </li>
+
+            <li class="counter-item">
+              <i class="fas fa-child"></i>
+              <h4 class="count" data-count="{{ sub now.Year 1966 }}">0</h4>
+              <span>Number of Years Providing Youth Club</span>
+            </li>
+
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-5 col-md-offset-1">
+        <div class="testimonial-carousel text-center">
+          <div class="testimonial-slider owl-carousel">
+            {{ range .testimonial_slider }}
+            <div>
+              <i class="fas fa-quote-left"></i>
+              {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+              <div class="user">
+                <img src="{{ .image | relURL }}" alt="client">
+                <p><span>{{ .name | markdownify }}</span> {{ .designation | markdownify }}</p>
+              </div>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+<!-- /funfacts -->

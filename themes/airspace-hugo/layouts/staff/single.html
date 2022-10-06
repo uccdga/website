@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ $data := index site.Data site.Language.Lang }}
+
+<section class="portfolio-single-page section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        {{ with .Params.image }}
+        <img class="img-responsive w-100" src="{{ . | relURL }}" alt="">
+        {{ end }}
+      </div>
+      <div class="col-md-4">
+        <div class="project-details">
+          <h3>{{ .Title }}</h3>
+          <h4>{{ .Description }}</h4>
+          {{ .Content }}
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

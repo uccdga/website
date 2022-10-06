@@ -1,0 +1,104 @@
+{{ define "main" }}
+
+<!-- banner -->
+{{ with .Params.banner }}
+{{ if .enable }}
+<section class="slider {{ if .bg_overlay }}overly{{ end }}" style="background-image: url('{{ .bg_image | relURL }}');">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          {{ with .title }}<h1>{{ . | markdownify }}</h1>{{ end }}
+          {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+          {{ with .button }}
+          {{ if .enable }}
+          <a href="{{ .link | relLangURL }}" class="btn btn-main animated fadeInUp">{{ .label }}</a>
+          {{ end }}
+          {{ end }}
+          {{ with .button2  }}
+          {{ if .enable }}
+          <a href="{{ .link | relLangURL }}" class="btn btn-main animated fadeInUp">{{ .label }}</a>
+          {{ end }}
+          {{ end }}
+          {{ with .button3 }}
+          {{ if .enable }}
+          <a href="{{ .link | relLangURL }}" class="btn btn-main animated fadeInUp">{{ .label }}</a>
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /banner -->
+
+<!-- about -->
+{{ with .Params.about }}
+{{ if .enable }}
+<section class="service-about section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        {{ with .title }}<h2>{{ . | markdownify }}</h2>{{ end }}
+        {{ with .content }}<div class="mt-30">{{ . | $.Page.RenderString (dict "display" "block") }}</div>{{ end }}
+                {{ with .button }}
+        {{ if .enable }}
+        <a href="{{ .link | relURL }}" class="btn btn-small mt-20">{{ .label }}</a>
+        {{ end }}
+        {{ end }}
+      </div>
+      {{ with .image -}}
+      <div class="col-md-6">
+        <img class="img-responsive" src="{{ . | relURL }}">
+      </div>
+      {{- end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /about -->
+
+<!-- portfolio -->
+{{ with .Params.portfolio }}
+{{ if .enable }}
+<section class="feature bg-2" style="background-image: url('{{ .bg_image | relURL }}')">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-md-offset-6">
+        {{ with .title }}<h2 class="section-subtitle">{{ . | markdownify }}</h2>{{ end }}
+        {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+        {{ with .button }}
+        {{ if .enable }}
+        <a href="{{ .link | relLangURL }}" class="btn btn-view-works">{{ .label }}</a>
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /portfolio -->
+
+<!-- call to action -->
+{{ if .Params.cta.enable }}
+{{ partial "cta.html" . }}
+{{ end }}
+<!-- /call to action -->
+
+<!-- service -->
+{{ partial "service.html" . }}
+<!-- /service -->
+
+<!-- call to action -->
+{{ if .Params.times.enable }}
+{{ partial "times.html" . }}
+{{ end }}
+<!-- /call to action -->
+
+{{ partial "longevity.html" . }}
+
+{{ end }}

@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+{{ partial "stream-title.html" . }}
+
+{{ $data := index site.Data site.Language.Lang }}
+
+<section class="portfolio-single-page section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="project-details">
+          <h4>Project Details</h4>
+          <ul>
+            {{ range .Params.information }}
+            <li><span>{{ .label }} :</span> <strong>{{ .info | markdownify }}</strong></li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

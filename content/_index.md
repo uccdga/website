@@ -87,17 +87,12 @@ funfacts:
   - name: "Bob Smith"
     image: "images/clients/avater-1.jpg"
     designation: "CEO-Themefisher"
-    content: "This test company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
+    content: "What a warm and welcoming church.  The sanctuary is beautiful, and the people are very caring!  It's a  traditional church with hymns and special music.  During non-COVID, the children and youth programs are strong, and it looks like the adult ministry is strong as well."
 
   # testimonial item loop
   - name: "Randi Renin"
     image: "images/clients/avater-1.jpg"
     designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
+    content: "I attended this congregation for ten years before relocating. Very warm, very friendly, and very active in missions work! The church is also very family oriented and offers programs for all age groups, and the leadership is exceptional!"
 
-  # testimonial item loop
-  - name: "Rose Rio"
-    image: "images/clients/avater-3.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
 ---

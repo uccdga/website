@@ -60,6 +60,7 @@
               <i class="fas fa-quote-left"></i>
               {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
               <div class="user">
+                  <p><span>{{ .name | markdownify }}</span></p>
               </div>
             </div>
             {{ end }}

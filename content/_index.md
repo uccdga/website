@@ -84,15 +84,21 @@ funfacts:
 
   testimonial_slider:
   # testimonial item loop
-  - name: "Bob Smith"
+  - name: "Irene"
     image: "images/clients/avater-1.jpg"
     designation: "CEO-Themefisher"
     content: "What a warm and welcoming church.  The sanctuary is beautiful, and the people are very caring!  It's a  traditional church with hymns and special music.  During non-COVID, the children and youth programs are strong, and it looks like the adult ministry is strong as well."
 
   # testimonial item loop
-  - name: "Randi Renin"
+  - name: "Randi"
     image: "images/clients/avater-1.jpg"
     designation: "CEO-Themefisher"
     content: "I attended this congregation for ten years before relocating. Very warm, very friendly, and very active in missions work! The church is also very family oriented and offers programs for all age groups, and the leadership is exceptional!"
+
+      # testimonial item loop
+  - name: "Amelia"
+    image: "images/clients/avater-1.jpg"
+    designation: "CEO-Themefisher"
+    content: "One of the many things I love about our church is the youth program. There are always so many events that are super fun and memorable."
 
 ---

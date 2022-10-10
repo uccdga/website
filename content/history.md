@@ -1,6 +1,6 @@
 ---
 title: "History"
-description: "Ministry for Youth at The United Church"
+description: "The History of The United Church"
 bg_image: "images/1871.jpg"
 layout: "service"
 draft: false

@@ -50,25 +50,25 @@ hasChildren = true
     parent = "News"
     name = "Streams"
     url = "https://uccdga.churchcenter.com/channels/12275"
-    weight = 1
+    weight = 2
 
     [[main]]
     parent = "News"
     name = "Groups"
     url = "https://uccdga.churchcenter.com/groups"
-    weight = 1
+    weight = 4
 
     [[main]]
     parent = "News"
     name = "Signups"
     url = "https://uccdga.churchcenter.com/registrations"
-    weight = 1
+    weight = 5
 
     [[main]]
     parent = "News"
-    name = "Bulletins and Lamplighters"
+    name = "Bulletins/Lamplighters"
     url = "https://uccdga.churchcenter.com/pages/bulletins"
-    weight = 1
+    weight = 3
 
 [[main]]
 name = "Sunday Service"

@@ -95,10 +95,16 @@ funfacts:
     designation: "CEO-Themefisher"
     content: "I attended this congregation for ten years before relocating. Very warm, very friendly, and very active in missions work! The church is also very family oriented and offers programs for all age groups, and the leadership is exceptional!"
 
-      # testimonial item loop
+  # testimonial item loop
   - name: "Amelia"
     image: "images/clients/avater-1.jpg"
     designation: "CEO-Themefisher"
     content: "One of the many things I love about our church is the youth program. There are always so many events that are super fun and memorable."
+
+  # testimonial item loop
+  - name: "Marion"
+    image: "images/clients/avater-1.jpg"
+    designation: "CEO-Themefisher"
+    content: "I knew this was the church where I wanted to worship God after my very first visit. I felt God’s love and peace, and was made very welcome. Our church is a family of loving, kind people and leadership."
 
 ---

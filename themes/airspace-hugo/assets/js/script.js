@@ -62,7 +62,7 @@ $(document).ready(function () {
     infinite: true,
     arrows: false,
     autoplay: true,
-    autoplaySpeed: 4000
+    autoplaySpeed: 6000
   });
 
   //  Count Up

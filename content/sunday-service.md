@@ -15,10 +15,10 @@ about:
 Our Sunday services are central to the life and practice of The United Church. 
 
 
-During the summer (Memorial Day weekend hrough Labor Day weekend), we have one service, which begins at 9:30 AM.  
+Beginning the weekend after Labor Day, we will gather in two services each week (8:45 AM and 11:00 AM). These two services continue through the weekend before Memorial Day.
 
 
-Beginning the weekend after Labor Day, we will gather in two services each week (8:45 AM and 11:00 AM). These two services continue through the weekend before Memorial Day."
+During the summer (Memorial Day weekend hrough Labor Day weekend), we have one service, which begins at 9:30 AM."
 
   button:
     enable : true
@@ -30,10 +30,10 @@ second:
   enable : true
   image : "images/childrens-sermon.jpg"
   title : "Children in Our Services"
-  content : "Nursery care for infants through 5-year-olds is provided during all Sunday Services. All adult volunteers in the nursery are background checked. Teen volunteers are only allowed to serve with an adult. Nursery toys are regularly disinfected to help keep our children healthy.
+  content : "Nursery care for infants through 5-year-olds is provided during all Sunday Services. All adult volunteers in the nursery are background checked. Teen volunteers are only allowed to serve with an adult. We have a pager system for parents to utilize in case their child needs a diaper change. All nursery toys and furniture are cleaned/sanitized regularly.
 
 
-Children's Time (a.k.a. children's church) is offered on most Sundays during our one summer 9;30am service, and on most Sundays during the 11:00 AM service.  After the children's sermon, kids aged Kindergarten through 2nd grade go to the Fellowship Room with an adult or high-school-aged teacher (and a teen helper) for a lesson. Parents are asked to pick their children up immediately following the service. (All adult volunteers are background checked.)"
+Children’s Time (a.k.a. children’s church) is offered on most Sundays during the 11:00 AM service or during our one summer 9:30am service. After the children’s sermon, kids aged Kindergarten through 2nd grade go to to a classroom with two adult and/or teen volunteers for an age-appropriate lesson. All adult volunteers are background checked. Parents are asked to pick their children up immediately following the service. On Communion Sundays when Children’s Time is not offered, Worship bags are available for any children to use during the Worship service."
 
   button:
     enable : false

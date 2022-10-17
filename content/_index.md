@@ -107,4 +107,9 @@ funfacts:
     designation: "CEO-Themefisher"
     content: "I knew this was the church where I wanted to worship God after my very first visit. I felt God’s love and peace, and was made very welcome. Our church is a family of loving, kind people and leadership."
 
+  # testimonial item loop
+  - name: "Paige"
+    image: "images/clients/avater-1.jpg"
+    designation: "CEO-Themefisher"
+    content: "I like my Learning to Worship class because I'm learning how to use my Bible and how to find the stories. I love singing hymns during service and learning about Ruth"
 ---

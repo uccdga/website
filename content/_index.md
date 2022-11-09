@@ -25,6 +25,9 @@ about:
   title : "About The United Church"
   description: "A vital part of the community of Canandaiga for generations, The United Church seeks to glorify God as we worship, grow, reach, and care."
   content: "The United Church is a wonderful church family with rich traditions and history in the community of Canandaigua.
+  
+
+  Our mission is That All Might Know Love and Follow The Lord Jesus Christ as Their Personal Lord and Savior
 
 
   We hope you will visit and learn more about our congregation. Please take a few minutes to read more about who we are and how we understand what it means to live out our faith."

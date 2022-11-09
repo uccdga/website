@@ -10,6 +10,8 @@ draft: false
 
 ### Welcome to The United Church of Canandaigua!
 
+"That All Might Know Love and Follow The Lord Jesus Christ as Their Personal Lord and Savior"
+
 We are made up of two denominations, Presbyterian and American Baptist.
 
 We are a united community of faith with a mission that all might come to know, love, and follow Jesus Christ as their personal Lord and Savior. We are a growing fellowship of believers who love God and love others. You are welcome to visit our church anytime!

@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ with .Params.about }}
+
+<section class="service-about section">
+  <div class="container">
+    <div class="row">
+      {{ range .ministry_item }}
+      <div class="col-md-12">
+        {{ if .link }}<a href="{{ .link }}" target="_blank">{{ with .name }}<h2>{{ . | markdownify }}</h2>{{ end }}</a>{{ else }}{{ with .name }}<h2>{{ . | markdownify }}</h2>{{ end }}{{end}}
+        {{ with .content }}<div class="mt-30">{{ . | $.Page.RenderString (dict "display" "block") }}</div>{{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+
+
+{{ end }}

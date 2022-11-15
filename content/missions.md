@@ -15,31 +15,32 @@ about:
     Emphasis is placed on evangelism, social justice, and acts of mercy. We provide both financial and prayer support to missionaries and for mission projects around the world. Members of the church, both adult and youth, bring the love of Christ to others by participating  in mission trips. The United Church helps finance those missions trips.
 
 
-    On the first Sunday of each month we collect non-profit perishable food items which are given alternately to Canandaigua Churches in Action and The Salvation Army to be distributed locally to those in need."
+    On the first Sunday of each month we collect non-perishable food items which are given alternately to Canandaigua Churches in Action and The Salvation Army to be distributed locally to those in need."
   image : "images/UC-ReachPage.png"
 
 
 ########################## featured service ############################
 featured_service:
-  enable : false
+  enable : true
   service_item:
     # featured service item loop
-    - name : "Interface Design"
-      icon : "fas fa-flask"
+    - name : "Hands On Opportunities"
+      icon : "fas fa-hands-helping"
       color : "primary"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "Explore local and global service opportunities"
+      url: "/hands-on"
 
     # featured service item loop
-    - name : "Product Branding"
-      icon : "fas fa-leaf"
+    - name : "Missionaries"
+      icon : "fas fa-users"
       color : "primary-dark"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "Learn more about the four missionaries we support around the world"
 
     # featured service item loop
-    - name : "Game Development"
-      icon : "fas fa-lightbulb"
+    - name : "Organizations We Financially Support"
+      icon : "fas fa-sitemap"
       color : "primary-darker"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "Your mission dollars support many organizations throughout the year"
 
 
 

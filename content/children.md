@@ -26,7 +26,6 @@ featured_service:
       icon : "fas fa-school"
       color : "primary"
       content : "Sunday School classes meet from mid September through mid May. Classes are offered for children from Preschool through High School."
-      link: ""
 
     # featured service item loop
     - name : "Youth Club"

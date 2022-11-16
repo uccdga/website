@@ -35,4 +35,30 @@ about:
       content: "taken in October and given in part to assist American Baptist International Ministries as they send and support missionaries all over the world to share the gospel of Jesus as they walk alongside underserved peoples and help with education and healthcare, bringing hope, and bringing about needed change and support systems in these areas of chronic need.  The other part goes to Presbyterian Disaster Assistance working quickly with established connections already on the ground - assessing the needs and assisting those who are suddenly finding themselves in unexpected and overwhelming situations."
     - name: "Christmas Joy Offering"
       content: "is given to the American Baptist \"America for Christ\" and \"Retired Ministers and Missionaries\", and also the Presbyterian \"Joy\" offering.  These latter two provide a monetary gift in thanks to our retired missionaries and ministers at Christmas.  \"America for Christ\" donations equip and expand the ABC network of disciple-makers that they, in turn, may equip other Christians in service in individuals and congregations across the US and Puerto Rico."
+
+
+########################## featured service ############################
+featured_service:
+  enable : true
+  service_item:
+    # featured service item loop
+    - name : "Local Volunteer Opportunities"
+      icon : "fas fa-people-carry"
+      color : "primary"
+      content : "See where you can make a difference through hands-on service"
+      url: "/local-volunteer"
+
+    # featured service item loop
+    - name : "Collections of Goods and Offerings"
+      icon : "fas fa-money-bill"
+      color : "primary-dark"
+      content : "See where your donations of needed items and monies are used"
+      url: "/collections"
+
+    # featured service item loop
+    - name : "Mission Trips"
+      icon : "fas fa-suitcase"
+      color : "primary-darker"
+      content : "Join us on a mission trip!  See where church members are traveling this year"
+      url: "/mission-trips"
 ---

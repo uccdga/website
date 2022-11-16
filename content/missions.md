@@ -35,12 +35,14 @@ featured_service:
       icon : "fas fa-users"
       color : "primary-dark"
       content : "Learn more about the four missionaries we support around the world"
+      url: "/missionaries"
 
     # featured service item loop
     - name : "Organizations We Financially Support"
       icon : "fas fa-sitemap"
       color : "primary-darker"
       content : "Your mission dollars support many organizations throughout the year"
+      url: "/organizations"
 
 
 

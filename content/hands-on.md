@@ -40,6 +40,7 @@ featured_service:
       icon : "fas fa-suitcase"
       color : "primary-darker"
       content : "Join us on a mission trip!  See where church members are traveling this year"
+      url: "/mission-trips"
 
 
 

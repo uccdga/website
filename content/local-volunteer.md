@@ -40,4 +40,29 @@ about:
     - name: "Called To Care"
       content: "Called to Care, Canandaigua formed in April of 2022 as a group of individuals from churches and service organizations with a mission to welcome Ukrainian and other refugees to Canandaigua. Working with the NY20 Project and World Relief, volunteers will promote and facilitate the resettlement of refugees in Canandaigua by providing a support network to help them begin a new life. Volunteers will be serving as Good Neighbor Teams and on several committees overseeing housing, transportation, employment, English lessons and more. Members Ulana Fuller and Linda Werts are currently serving as co-chairs of the organization."
 
+########################## featured service ############################
+featured_service:
+  enable : true
+  service_item:
+    # featured service item loop
+    - name : "Local Volunteer Opportunities"
+      icon : "fas fa-people-carry"
+      color : "primary"
+      content : "See where you can make a difference through hands-on service"
+      url: "/local-volunteer"
+
+    # featured service item loop
+    - name : "Collections of Goods and Offerings"
+      icon : "fas fa-money-bill"
+      color : "primary-dark"
+      content : "See where your donations of needed items and monies are used"
+      url: "/collections"
+
+    # featured service item loop
+    - name : "Mission Trips"
+      icon : "fas fa-suitcase"
+      color : "primary-darker"
+      content : "Join us on a mission trip!  See where church members are traveling this year"
+      url: "/mission-trips"
+
 ---

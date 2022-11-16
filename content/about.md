@@ -69,6 +69,10 @@ Most people wear casual business attire. Some wear jeans or shorts with t-shirts
 
 **K - 2nd grade** kids can attend part of the [worship](/worship) service with their family and then can be dismissed after the Children's Message for Children's Time (during the 11:00am service only; also offered during our 9:30am summer [worship](/worship) service). Children's Time (a.k.a. Children's Church) is offered each Sunday except for the first Sunday of the month, when our church serves communion. Children's Time is also not offered on weekends that are near holidays. Children in this age range are welcome to stay with their family for the entire worship service on any Sunday.
 
+**3rd - 5th grade**:
+
+3rd graders at the United Church receive their very own Bible in September. After that, they attend Learning to Worship classes that are offered during the 11am service after the Children’s Sermon. These classes help the 3rd graders learn to navigate their Bible and help them understand more about the different parts of our Sunday morning worship service. (4th and 5th graders that are new to our church may also receive a Bible and participate in Learning to Worship if they choose.) Once they have completed Learning to Worship, 3rd, 4th and 5th graders are ready to remain in the service with their families for the duration of the service. There are children’s bulletins available each week for use during the service.
+
 **Middle School and High School** students (6th - 12th grade) 
 Middle School and High School students are encouraged to join us during the [worship](/worship) service with their families or sit together with other students. 
 

@@ -5,7 +5,7 @@ banner:
   bg_image: "images/people-in-worship.jpg"
   bg_overlay: true
   title: "The United Church of Canandaigua"
-  content: "We gather for Sunday services at 8:45 and 11 AM"
+  content: "We gather for Sunday services at 8:45 AM and 11 AM"
   button:
     enable: true
     label: "Sunday Services"
@@ -70,7 +70,7 @@ times:
   enable: true
   bg_image: "images/empty-tomb.jpg"
   title: "Sunday Service Times"
-  content: "Join us for our Sunday Services at 8:45 and 11 AM"
+  content: "Join us for our Sunday Services at 8:45 AM and 11 AM"
   button:
     enable: true
     label: "Read More About Sunday Services"

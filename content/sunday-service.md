@@ -15,7 +15,7 @@ about:
 Our Sunday services are central to the life and practice of The United Church. 
 
 
-Beginning the weekend after Labor Day, we will gather in two services each week (8:45 AM and 11:00 AM). These two services continue through the weekend before Memorial Day.
+Beginning the weekend after Labor Day, we gather in two services each week (8:45 AM and 11:00 AM). These two services continue through the weekend before Memorial Day.
 
 
 During the summer (Memorial Day weekend hrough Labor Day weekend), we have one service, which begins at 9:30 AM."

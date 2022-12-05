@@ -8,6 +8,7 @@ draft: false
 ########################### about service #############################
 about:
   enable : true
+  image: "images/Mission-Collections-01.png"
   ministry_item:
     - name: "Weekly Food Collection"
       content: "The United Church believes in supporting our neighbors. One of the ways we do this is through our food collections. The food is delivered to the food cupboards at Canandaigua Churches in Action [CCIA] and the Salvation Army. 

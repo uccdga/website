@@ -8,6 +8,7 @@ draft: false
 ########################### about service #############################
 about:
   enable : true
+  image: "images/Mission-Collections-01.png"
   ministry_item:
     - name: "United Missions Basics"
       link: "https://www.abc-usa.org/giving/united-mission/ "

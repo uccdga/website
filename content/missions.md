@@ -16,7 +16,7 @@ about:
 
 
     On the first Sunday of each month we collect non-perishable food items which are given alternately to Canandaigua Churches in Action and The Salvation Army to be distributed locally to those in need."
-  image : "images/UC-ReachPage.png"
+  image : "images/Missions-Page-01.png"
 
 
 ########################## featured service ############################

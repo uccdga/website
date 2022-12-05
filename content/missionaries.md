@@ -8,6 +8,7 @@ draft: false
 ########################### about service #############################
 about:
   enable : true
+  image : "images/Missionaries-Page-01.png"
   ministry_item:
     - name: "Ryan and Alethia White"
       link: "https://www.presbyterianmission.org/ministries/missionconnections/ryan-and-alethia-white/"

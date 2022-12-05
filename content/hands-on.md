@@ -8,6 +8,7 @@ draft: false
 ########################### about service #############################
 about:
   enable : true
+  image: "images/Mission-HandsOn-01.png"
   title : "United Church Hands-on Opportunities"
   content : "The United Church offers a variety of opportunities to engage in missions works locally and around the world.  Please follow the links below to see all of the ways our church is involved in mission work.
 

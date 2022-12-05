@@ -8,6 +8,7 @@ draft: false
 ########################### about service #############################
 about:
   enable : true
+  image: "images/Mission-Trips-01.png"
   ministry_item:
     - name: "AMOS Nicaragua"
       content: "AMOS firmly believes that health for all is possible when evidence-based, faith-based. Community-based models are combined to ensure that health services reach the most vulnerable members of our society.  They work closely with American Baptist missionaries and service twenty-five communities in Nicaragua.

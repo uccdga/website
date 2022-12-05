@@ -8,6 +8,7 @@ draft: false
 ########################### about service #############################
 about:
   enable : true
+  image: "images/Missions-LocalOpportunities-Page-01.png"
   ministry_item:
     ## Family Promise
     - name: "Family Promise of Ontario County (FPOC)"

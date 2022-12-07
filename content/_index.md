@@ -23,8 +23,8 @@ banner:
 about:
   enable : true
   title : "About The United Church"
-  description: "A vital part of the community of Canandaiga for generations, The United Church seeks to glorify God as we worship, grow, reach, and care."
-  content: "The United Church is a wonderful church family with rich traditions and history in the community of Canandaigua.
+  description: "A vital part of the community of Canandaiga, New York for generations, The United Church seeks to glorify God as we worship, grow, reach, and care."
+  content: "The United Church is a wonderful church family with rich traditions and history in the community of Canandaigua, New York.
   
 
   Our mission is That All Might Know Love and Follow The Lord Jesus Christ as Their Personal Lord and Savior
@@ -43,7 +43,7 @@ portfolio:
   enable: false
   bg_image: "images/feature-bg.jpg"
   title: "About"
-  content: " A vital part of the community of Canandaigua for generations, The United Church seeks to glorify God as we worship, grow, reach, and care.
+  content: " A vital part of the community of Canandaigua, New York for generations, The United Church seeks to glorify God as we worship, grow, reach, and care.
 
 
   The United Church connects to two denominations and other local and national ministries. Through its Mission Budget (which is separate from the Operating Budget), the United Church gives over a third of its yearly offerings to ministries outside of its walls. As a member of two denominations, The United Church is unique. It retains language and organizational structure from both denominations. Membership in the United Church can be either denomination (Presbyterian or Baptist) or neither denomination (United).

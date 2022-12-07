@@ -22,7 +22,7 @@ Sunday School is offered for 3-year-olds through adults on Sunday mornings at 9:
 
 Our parking lot is most easily accessed from Gibson Street. Please note that our church also has permission to park in the parking lots behind the 4 buildings on Main St to the south of our church building. Parallel parking is available on Main Street and Gibson Street.
 
-If you have questions regarding our church, please feel free to contact our church office at (585) 394-0503, or stop by between 9:00am and 1:00pm,  Monday through Friday.  The church's address is: 11 Gibson Street, Canandaigua, NY 14424.
+If you have questions regarding our church, please feel free to contact our church office at (585) 394-0503, or stop by between 9:00am and 1:00pm,  Monday through Friday.  The church's address is: 11 Gibson Street, Canandaigua, New York 14424.
 
 ### What to Expect during a Visit
 

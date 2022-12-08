@@ -34,6 +34,14 @@
 {{ end }}
 <!-- /banner -->
 
+<!-- home page highlights -->
+{{ partial "home-page-highlights.html" . }}
+<!-- /home page highlights -->
+
+<!-- staff -->
+{{ partial "staff.html" . }}
+<!-- /staff -->
+
 <!-- about -->
 {{ with .Params.about }}
 {{ if .enable }}
@@ -61,6 +69,8 @@
 {{ end }}
 <!-- /about -->
 
+
+
 <!-- portfolio -->
 {{ with .Params.portfolio }}
 {{ if .enable }}
@@ -83,15 +93,15 @@
 {{ end }}
 <!-- /portfolio -->
 
-<!-- call to action -->
+<!-- history -->
 {{ if .Params.cta.enable }}
 {{ partial "cta.html" . }}
 {{ end }}
-<!-- /call to action -->
+<!-- /history -->
 
-<!-- service -->
+<!-- mission and vision words -->
 {{ partial "service.html" . }}
-<!-- /service -->
+<!-- /mission and vision words -->
 
 <!-- call to action -->
 {{ if .Params.times.enable }}

@@ -115,4 +115,16 @@ funfacts:
     image: "images/clients/avater-1.jpg"
     designation: "CEO-Themefisher"
     content: "I like my Learning to Worship class because I'm learning how to use my Bible and how to find the stories. I love singing hymns during service and learning about Ruth"
+
+
+staff:
+  enable: true
+  bg_image: "images/people-in-worship.jpg"
+  title: "Meet the Staff"
+  content: "The United Church has a dedicated, competent and committed staff"
+  button:
+    enable: true
+    label: "Learn More About the Staff"
+    link: "staff/"
+
 ---

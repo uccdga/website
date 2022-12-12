@@ -27,7 +27,7 @@ about:
   content: "The United Church is a wonderful church family with rich traditions and history in the community of Canandaigua, New York.
   
 
-  Our mission is That All Might Know Love and Follow The Lord Jesus Christ as Their Personal Lord and Savior
+  Our mission is, *That All Might Know, Love, and Follow the Lord Jesus Christ as Their Personal Lord and Savior*.
 
 
   We hope you will visit and learn more about our congregation. Please take a few minutes to read more about who we are and how we understand what it means to live out our faith."

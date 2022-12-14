@@ -3,6 +3,13 @@
 {{ partial "page-title.html" . }}
 
 <section class="contact-form">
+    <div class="container">
+      <h2>Navigate to The United Church</h2>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2923.1701002205996!2d-77.2848930849081!3d42.89035777915487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d1267e7d87225f%3A0x9003e417b2648615!2sUnited%20Church%20(Presbyterian%20-%20American%20Baptist)!5e0!3m2!1sen!2sus!4v1670979125297!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+</section>
+
+<section class="contact-form">
   <div class="container">
     {{ with site.Params.contact.form }}{{ if .enable -}}
     <div class="row">
@@ -64,17 +71,9 @@
         </div>
       </div>
       {{- end }}
-      {{ if site.Params.gmap.enable -}}
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
-          <div class="google-map">
-            <div class="map" id="map" data-latitude="{{ site.Params.gmap.map_latitude }}" data-longitude="{{ site.Params.gmap.map_longitude }}" data-marker="{{ site.Params.gmap.map_marker | relURL }}" data-marker-name="{{ site.Title }}"></div>
-          </div>
-        </div>
-      </div>
-      {{- end }}
     </div>
   </div>
 </section>
+
 
 {{ end }}

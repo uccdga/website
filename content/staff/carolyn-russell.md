@@ -1,7 +1,7 @@
 ---
 title: "Carolyn Russell"
 description: "Church Secretary and Financial Secretary"
-weight: 6
+weight: 5
 draft: false
 image : "images/people/carolyn-russell.jpg"
 bg_image: "images/stained-blue.jpg"

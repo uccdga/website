@@ -16,9 +16,9 @@ We are made up of two denominations, Presbyterian and American Baptist.
 
 We are a united community of faith with a mission that all might come to know, love, and follow Jesus Christ as their personal Lord and Savior. We are a growing fellowship of believers who love God and love others. You are welcome to visit our church anytime!
 
-We have two [Worship](/worship) services at 8:45am and 11:00am. These services run every Sunday from the Sunday following Labor Day until the Sunday prior to Memorial Day weekend. We have Sunday School for all ages at 9:45am from mid-September until mid-May.  From the Sunday of Memorial Day weeknd until the Sunday of Labor Day weekend, we have one [Worship](/worship) service at 9:30am.  We have nursery care available during all [Worship](/worship) services. 
+We have two [services](/sunday-service) at 8:45am and 11:00am. These services run every Sunday from the Sunday following Labor Day until the Sunday prior to Memorial Day weekend. We have Sunday School for all ages at 9:45am from mid-September until mid-May.  From the Sunday of Memorial Day weeknd until the Sunday of Labor Day weekend, we have one [service](/sunday-service) at 9:30am.  We have nursery care available during all [services](/sunday-service). 
 
-Sunday School is offered for 3-year-olds through adults on Sunday mornings at 9:45am. Our Sunday School year runs from mid-September through mid-May, with some breaks for holidays. On the 5th Sunday of the month, we have an intergenerational Sunday School class in our downstairs dining room. Please contact Deb (Children), Mark (Youth), or Paul (Adults) for more information.
+Sunday School is offered for 3-year-olds through adults on Sunday mornings at 9:45am. Our Sunday School year runs from mid-September through mid-May, with some breaks for holidays. On the 5th Sunday of the month, we have an intergenerational Sunday School class in our downstairs dining room. Please contact Deb or Mark for more information.
 
 Our parking lot is most easily accessed from Gibson Street. Please note that our church also has permission to park in the parking lots behind the 4 buildings on Main St to the south of our church building. Parallel parking is available on Main Street and Gibson Street.
 
@@ -30,7 +30,7 @@ We hope the questions and answers below help you to know what to expect as a vis
 
 #### What time should I arrive?
 
-We recommend parking your car about 10 minutes prior to the service time. This will allow you to walk to the sanctuary, be greeted, and find a seat. Also, if you have children, they may [worship](/worship) with you or you can take them to our nursery. If you plan to use the nursery, you may want to add a little extra time to get your little ones settled before the service. 
+We recommend parking your car about 10 minutes prior to the service time. This will allow you to walk to the sanctuary, be greeted, and find a seat. Also, if you have children, they may worship with you or you can take them to our nursery. If you plan to use the nursery, you may want to add a little extra time to get your little ones settled before the service. 
 
 #### Will I be singled out as a visitor?
 
@@ -38,18 +38,21 @@ There are no special visitor tags or time when we have visitors stand, so don't 
 
 #### What is the service like?
 
-When you enter the sanctuary, you will be warmly greeted and handed a bulletin that contains news, announcements, [worship](/worship) service outline, Scripture references, sermon title, and more.  Feel free to sit anywhere you are comfortable.
+When you enter the sanctuary, you will be warmly greeted and handed a bulletin that contains news, announcements, [service](/sunday-service) outline, Scripture references, sermon title, and more.  Feel free to sit anywhere you are comfortable.
 
-#### Here's what you can expect at a typical [worship](/worship) service:
+#### Here's what you can expect at a typical [service](/sunday-service):
 
-- Announcements and greeting one another
-- Singing songs and hymns
-- Prayers
-- Children's Message
-- Reading Scripture
-- Sermon (about 20 minutes)
-- Offering
-- Benediction
+Announcements and greeting one another  
+Singing songs and hymns  
+Prayers  
+Children's Message  
+Reading Scripture  
+Sermon (about 20 minutes)  
+Offering  
+Benediction
+
+
+
 
 Sometimes, we also have special elements such as baptisms, accepting new members, and praying for those headed to work camp or the mission field.
 
@@ -65,16 +68,16 @@ Most people wear casual business attire. Some wear jeans or shorts with t-shirts
 
 #### What about my kids?
 
-**Birth - 5-year-olds** may be taken to the nursery before service begins, after the Children's Message, or at any time during the service that the parents feel it is necessary. If you would like your children to attend [worship](/worship) services with you, they are more than welcome in the sanctuary during the service.
+**Birth - 5-year-olds** may be taken to the nursery before service begins, after the Children's Message, or at any time during the service that the parents feel it is necessary. If you would like your children to attend [services](/sunday-service) with you, they are more than welcome in the sanctuary during the service.
 
-**K - 2nd grade** kids can attend part of the [worship](/worship) service with their family and then can be dismissed after the Children's Message for Children's Time (during the 11:00am service only; also offered during our 9:30am summer [worship](/worship) service). Children's Time (a.k.a. Children's Church) is offered each Sunday except for the first Sunday of the month, when our church serves communion. Children's Time is also not offered on weekends that are near holidays. Children in this age range are welcome to stay with their family for the entire worship service on any Sunday.
+**K - 2nd grade** kids can attend part of the [service](/sunday-service) with their family and then can be dismissed after the Children's Message for Children's Time (during the 11:00am service only; also offered during our 9:30am summer [service](/sunday-service)). Children's Time (a.k.a. Children's Church) is offered each Sunday except for the first Sunday of the month, when our church serves communion. Children's Time is also not offered on weekends that are near holidays. Children in this age range are welcome to stay with their family for the entire worship service on any Sunday.
 
 **3rd - 5th grade**:
 
 3rd graders at the United Church receive their very own Bible in September. After that, they attend Learning to Worship classes that are offered during the 11am service after the Children’s Sermon. These classes help the 3rd graders learn to navigate their Bible and help them understand more about the different parts of our Sunday morning worship service. (4th and 5th graders that are new to our church may also receive a Bible and participate in Learning to Worship if they choose.) Once they have completed Learning to Worship, 3rd, 4th and 5th graders are ready to remain in the service with their families for the duration of the service. There are children’s bulletins available each week for use during the service.
 
 **Middle School and High School** students (6th - 12th grade) 
-Middle School and High School students are encouraged to join us during the [worship](/worship) service with their families or sit together with other students. 
+Middle School and High School students are encouraged to join us during the [service](/sunday-service) with their families or sit together with other students. 
 
 Sunday School for all ages at 9:45am
 We have Sunday school classes between services for all ages. These classes run from mid-September until mid-May.
@@ -89,7 +92,7 @@ The United Church connects to two denominations and other local and national min
 
 ### Presbyterians
 
-The United Church is a part of the Presbyterian Church USA through the Presbytery of Geneva. As a Presbyterian church, the church looks to the Book of Order and the Book of Confessions. Presbyterian influence is evident in our structured, traditional [worship](/worship) service. However, The United Church does not align with PC-USA on several issues. If you would be interested in learning more about these differences, don't hesitate to contact the Pastor.
+The United Church is a part of the Presbyterian Church USA through the Presbytery of Geneva. As a Presbyterian church, the church looks to the Book of Order and the Book of Confessions. Presbyterian influence is evident in our structured, traditional [service](/sunday-service). However, The United Church does not align with PC-USA on several issues. If you would be interested in learning more about these differences, don't hesitate to contact the Pastor.
 
 ### Baptists
 
@@ -115,7 +118,7 @@ A called Pastor, Professional Staff Members, and Lay Leaders (Church Officers an
 
 The Official Board includes the Pastor (Teaching Elder) and Ruling Elders. Ruling Elders must be members of solid faith, dedicated discipleship and demonstrate love for Jesus Christ as Savior and Lord. Ruling Elders are authorized to serve communion (first Sunday of each month, Maundy Thursday, Christmas Eve).
 
-The Board of Stewards includes Stewards/Deacons. Their primary function is to maintain connections with our Special Members. They also manage the Stewards Assistance Fund, direct a card ministry, organize special remembrances, organize greeters for Sunday [worship](/worship) services, and decorate the church for particular seasons.
+The Board of Stewards includes Stewards/Deacons. Their primary function is to maintain connections with our Special Members. They also manage the Stewards Assistance Fund, direct a card ministry, organize special remembrances, organize greeters for Sunday [service](/sunday-service), and decorate the church for particular seasons.
 
 The Board of Trustees is responsible for the financial and property management of the church.
 

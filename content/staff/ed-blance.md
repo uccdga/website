@@ -1,7 +1,7 @@
 ---
 title: "Edwin Blance"
 description: "Projects Coordinator"
-weight: 8
+weight: 11
 draft: false
 image : "images/people/ed-blance.jpg"
 bg_image: "images/stained-blue.jpg"

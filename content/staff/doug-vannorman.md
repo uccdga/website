@@ -1,7 +1,7 @@
 ---
 title: "Doug VanNorman"
 description: "Custodian"
-weight: 11
+weight: 9
 draft: false
 image : "images/people/doug-vannorman.jpg"
 bg_image: "images/stained-blue.jpg"

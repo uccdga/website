@@ -9,7 +9,7 @@ draft: false
 about:
   enable : true
   title : "About Adult Ministries at The United Church"
-  content : "The Lord has brought together many spiritual gifts in our congregation.  Our adults are blessing others and being blessed.  We come to be fed by His word and to teach, to pass on our faith to the next generation, to serve in our church and community, to encourage one another and to testify to Christ’s work in our lives, relying upon the power of the Holy Spirit every day of the week.  For information about the programs we offer for adults, contact Paul Johnson."
+  content : "The Lord has brought together many spiritual gifts in our congregation.  Our adults are blessing others and being blessed.  We come to be fed by His word and to teach, to pass on our faith to the next generation, to serve in our church and community, to encourage one another and to testify to Christ’s work in our lives, relying upon the power of the Holy Spirit every day of the week.  For information about the programs we offer for adults, contact Mark Slomski."
   image : "images/UC-AdultPage.png"
 
 

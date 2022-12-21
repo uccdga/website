@@ -1,7 +1,7 @@
 ---
 title: "Paul Johnson"
 description: "Adult Ministries Director"
-weight: 3
+weight: 10
 draft: false
 image : "images/people/paul-johnson.jpg"
 bg_image: "images/stained-blue.jpg"

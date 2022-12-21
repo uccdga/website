@@ -1,7 +1,7 @@
 ---
 title: "Nancy Lamberson"
 description: "Treasurer"
-weight: 9
+weight: 6
 draft: false
 image : "images/people/nancy-lamberson.jpg"
 bg_image: "images/stained-blue.jpg"

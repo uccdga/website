@@ -1,7 +1,7 @@
 ---
 title: "Kateri Andress"
 description: "Organist"
-weight: 9
+weight: 8
 draft: false
 image : "images/people/kateri-andress.jpg"
 bg_image: "images/stained-blue.jpg"

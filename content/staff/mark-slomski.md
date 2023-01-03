@@ -1,6 +1,6 @@
 ---
 title: "Mark Slomski"
-description: "Pastor of Youth and Adult Education"
+description: "Pastor of Youth and Adult Ministry"
 weight: 2
 draft: false
 image : "images/people/mark-slomski.jpg"

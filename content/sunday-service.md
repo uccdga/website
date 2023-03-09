@@ -55,7 +55,7 @@ features:
   # feature item loop
   - icon : "fas fa-music" #https://fontawesome.com/v5.15/icons
     name : "Pipe Organ"
-    content : "The organ was dedicated in 2015. Kateri Andress, a student at Eastman School of Music in Rochester, plays the organ each week."
+    content : "Kateri Andress, a student at Eastman School of Music in Rochester, plays the organ each week."
 
   # feature item loop
   - icon : "fas fa-book" #https://fontawesome.com/v5.15/icons

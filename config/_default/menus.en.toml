@@ -54,6 +54,12 @@ hasChildren = true
 
     [[main]]
     parent = "News"
+    name = "Podcast"
+    url = "podcast/"
+    weight = 3
+
+    [[main]]
+    parent = "News"
     name = "Groups"
     url = "https://uccdga.churchcenter.com/groups"
     weight = 4
@@ -68,7 +74,7 @@ hasChildren = true
     parent = "News"
     name = "Bulletins/Lamplighters"
     url = "https://uccdga.churchcenter.com/pages/bulletins"
-    weight = 3
+    weight = 6
 
 [[main]]
 name = "Sunday Service"

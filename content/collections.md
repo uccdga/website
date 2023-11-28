@@ -26,8 +26,6 @@ about:
       link: "https://cwsglobal.org/"
     - name: "Silent Auction"
       content: "The United Church holds Silent Auctions every other year as a fundraiser for our Mission Trips. Our church generously assists those members going on short term mission trips including our Youth Group trips each summer."
-    - name: "Rada Cutlery"
-      content: "One of the ways we raise funds for mission trips is by selling RADA Cutlery by catalog and on line through this link to their website. We earn 40% profit on all orders. They have wonderful cutlery, soups and sauces, desserts, utensils, baking pans, gift sets, dips, cheesecake, and cookbooks. Prices are very reasonable."
     - name: "One Great Hour of Sharing"
       content: "taken on Easter Sunday, this offering is applied by the denominations to provide immediate relief and long-term recovery support after natural and humanitarian disasters; equip churches and leaders in disaster preparedness measures; offer assistance to displaced people; and support global development projects that empower communities around the world."
     - name: "Church World Service Blanket Sunday"

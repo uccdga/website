@@ -5,7 +5,14 @@ banner:
   bg_image: "images/people-in-worship.jpg"
   bg_overlay: true
   title: "The United Church of Canandaigua"
-  content: "We gather for Sunday services at 8:45 AM and 11 AM"
+  content: "Join us for our Sunday Services at 8:45 AM and 11 AM
+
+
+  (11 AM morning service on December 24 and December 31)
+
+
+  7 PM Candlelight Communion Service on Christmas Eve 
+  "
   button:
     enable: true
     label: "Sunday Services"
@@ -72,8 +79,9 @@ times:
   title: "Sunday Service Times"
   content: "Join us for our Sunday Services at 8:45 AM and 11 AM
 
-  11 AM morning service on December 24 and December 31
-  
+
+  (11 AM morning service on December 24 and December 31)
+
 
   7 PM Candlelight Communion Service on Christmas Eve 
   "

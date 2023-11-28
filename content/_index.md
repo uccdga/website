@@ -8,7 +8,7 @@ banner:
   content: "Join us for our Sunday Services at 8:45 AM and 11 AM
 
 
-  (11 AM morning service on December 24 and December 31)
+  December 24 and December 31 (no 8:45 AM service)
 
 
   7 PM Candlelight Communion Service on Christmas Eve 
@@ -80,7 +80,7 @@ times:
   content: "Join us for our Sunday Services at 8:45 AM and 11 AM
 
 
-  (11 AM morning service on December 24 and December 31)
+  December 24 and December 31 (no 8:45 AM service)
 
 
   7 PM Candlelight Communion Service on Christmas Eve 

@@ -35,7 +35,7 @@ featured_service:
       icon : "fas fa-tasks"
       color : "primary-darker"
       content : "Pledging the amounts that you intend to give each year helps the church to plan the budgets for the next year. The United Church separates pledged amounts into money given towards the Operational Expenses of the church and Missions of the church."
-      url: "https://bit.ly/UCCDGA-Pledge"
+      url: "https://tinyurl.com/yjtsy4b4"
 
 
 

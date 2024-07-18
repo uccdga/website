@@ -3,7 +3,7 @@ title: "Christy Allen"
 description: "Care Ministry Director"
 weight: 4
 draft: false
-image : "images/people/blank.jpg"
+image : "images/people/christy-allen.jpg"
 bg_image: "images/stained-blue.jpg"
 category: [ "Staff"]
 ---

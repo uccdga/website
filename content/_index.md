@@ -8,7 +8,7 @@ banner:
   content: "Join us for our Summer Sunday Services at 9:30 AM. 
 
 
-  **Note: on Sunday, August 18, we will meet at Onanda Park.**"
+  **Note: on Sunday, August 18, we will meet at Onanda Park at 9:30 AM.**"
   button:
     enable: true
     label: "Sunday Services"
@@ -76,7 +76,7 @@ times:
   content: "Join us for our Summer Sunday Service at 9:30 AM. 
 
 
-  **Note: on Sunday, August 18, we will meet at Onanda Park.**"
+  **Note: on Sunday, August 18, we will meet at Onanda Park at 9:30 AM.**"
   button:
     enable: true
     label: "Read More About Sunday Services"

@@ -5,10 +5,7 @@ banner:
   bg_image: "images/people-in-worship.jpg"
   bg_overlay: true
   title: "The United Church of Canandaigua"
-  content: "Join us for our Summer Sunday Services at 9:30 AM. 
-
-
-  **Note: on Sunday, August 18, we will meet at Onanda Park at 9:30 AM.**"
+  content: "Join us for our Summer Sunday Services at 9:30 AM."
   button:
     enable: true
     label: "Sunday Services"
@@ -73,10 +70,7 @@ times:
   enable: true
   bg_image: "images/empty-tomb.jpg"
   title: "Sunday Service Times"
-  content: "Join us for our Summer Sunday Service at 9:30 AM. 
-
-
-  **Note: on Sunday, August 18, we will meet at Onanda Park at 9:30 AM.**"
+  content: "Join us for our Summer Sunday Service at 9:30 AM."
   button:
     enable: true
     label: "Read More About Sunday Services"

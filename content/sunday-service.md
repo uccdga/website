@@ -20,9 +20,6 @@ Beginning the weekend after Labor Day, we gather in two services each week (8:45
 
 During the summer (Memorial Day weekend through Labor Day weekend), we have one service, which begins at 9:30 AM.
 
-
-**Note: On Sunday, August 18, we will be meeting at Onanda Park at 9:30 AM.**
-
 "
 
   button:

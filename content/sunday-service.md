@@ -85,13 +85,11 @@ features:
 cta:
   enable : true
   # call to action content comes from "_index.md"
-
 ########################## worship times #################################
 times:
   enable : false
   # call to action content comes from "_index.md"
 ---
-
 
 
 Nursery care for infants through 5-year-olds is provided during all Sunday Services. All adult volunteers in the nursery are background checked. Teen volunteers are only allowed to serve with an adult. Nursery toys are regularly disinfected to help keep our children healthy.

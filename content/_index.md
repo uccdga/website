@@ -70,7 +70,7 @@ times:
   enable: true
   bg_image: "images/empty-tomb.jpg"
   title: "Sunday Service Times"
-  content: "Join us at 8:45 and 11 AM each Sunday moring"
+  content: "Join us at 8:45 and 11 AM each Sunday morning"
   button:
     enable: true
     label: "Read More About Sunday Services"
